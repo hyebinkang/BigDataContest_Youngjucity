@@ -1,6 +1,6 @@
 # 💻2024 영주시 빅데이터 데이터 분석·활용 공모전💻
 - 팀명: 선비의 밤 고백(4명)
-- 링크: [영주시청](https://www.yeongju.go.kr/open_content/main/page.do?pageNo=1&pagePrvNxt=1&pageRef=0&pageOrder=0&step=258&parm_bod_uid=1143205&srchVoteType=-1&srchBgpUid=-1&srchKeyword=%EA%B3%B5%EB%AA%A8%EC%A0%84&srchEnable=-1&srchSDate=1990-01-01&srchColumn=bod_title&srchEDate=2100-01-01&mnu_uid=1521&)
+- 주체: [영주시청](https://www.yeongju.go.kr/open_content/main/page.do?pageNo=1&pagePrvNxt=1&pageRef=0&pageOrder=0&step=258&parm_bod_uid=1143205&srchVoteType=-1&srchBgpUid=-1&srchKeyword=%EA%B3%B5%EB%AA%A8%EC%A0%84&srchEnable=-1&srchSDate=1990-01-01&srchColumn=bod_title&srchEDate=2100-01-01&mnu_uid=1521&)
 - 공모주제: 영주시 도시 현안 관련 자유주제(문화/관광)
 - 공모부문: 데이터 분석
 - 수상: 장려상
